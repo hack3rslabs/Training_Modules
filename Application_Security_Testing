@@ -1,0 +1,150 @@
+INTRODUCTION
+
+Module 1 - Web Application Security challenges
+The module is not about how the code is written securely or how the application is tested in depth.
+The module speaks about the real time scenarios and challenges which are faced during managing
+the application security program.
+
+Module 2 – Advanced Web application attacks and remedy
+The module explains what are all the advanced attacks which can be placed and there basic root
+cause. This module also covers the best practices to mitigate the attack.
+
+Module 3 – Secure Software Development Life Cycle (SDLC)
+This module speaks about how the security can be incorporated or identified in the software
+engineering principles. This explains the engagement of security best practices with the water fall
+model of Software design life cycle.
+
+Module 4 – Threat modelling and Pursuit of security threats
+This module is about the approach for analyzing the security of an application. It defines structured
+approach that enables you to identify, quantify, and address the security risks associated with an
+application
+
+Module 5 – Web server security
+The World Wide Web (WWW) is a system for exchanging information over the Internet. Web
+server is the most targeted and attacked host on most organizations’ network. As a result, it is
+essential to secure Web servers and the network infrastructure that supports them. This module
+covers the best practices to secure a web server.
+
+Module 6 – Secure architecture of web sites and web deployment
+infrastructure
+To build a secure Web application, you need an appropriate architecture and design. The cost and
+effort of retrofitting security after development are too high. An architecture and design review
+helps you validate the security-related design features of your application before you start the
+development phase.
+
+Module 7 – Security Auditing and fault tolerance
+Most of the organizations doesn’t care about the policies and procedures unless some attacker
+forces them to hire a auditor. This module speaks about some best practices and principles
+regarding the security audit.
+
+Module 8 – Code obfuscation attack scenarios
+The module covers the basics of Code obfuscation techniques and related attacks and mitigations
+which are spread to different platforms.
+
+Module 9 – Memory corruption attacks and Security configurations
+Components, such as libraries, frameworks, and other software modules, almost always run with
+full privileges. If a vulnerable component is exploited, such an attack can facilitate serious data
+loss or server takeover. Applications using components with known vulnerabilities may undermine
+application defenses and enable a range of possible attacks and impacts
+
+Module 10 – Authentication, Cryptography and Digital Signatures
+Web applications frequently redirect and forward users to other pages and websites, and use
+untrusted data to determine the destination pages. Without proper validation, attackers can redirect
+victims to phishing or malware sites, or use forwards to access unauthorized pages
+
+Module 11 - Web DDOS attack and its prevention
+
+Module 12 - Mitigation of Business critical risk areas
+
+Module 13 - Creating Fault Tolerance
+
+Module 14 - Incident Response
+
+
+Security Testing
+Isha presents an Extensive and highly interactive “Security Testing” by our industry expert with 19 years of hands-on experience. Learn all the Security Testing concepts with hands-on practical examples. The course syllabus is designed by considering the current job market trends and industry requirements.
+
+ 
+
+About the Instructor:
+
+Kiran is an ITIL qualified Full Stack SDET specialist, Corporate Trainer and Consultant with over 19 years of experience in leading & delivering corporate training with tangible direction to IT professionals by imparting white-box knowledge in Software Testing, Security Testing, Test Automation, Test Practices & Competencies, Corporate Trainings & TCoE Delivery.
+We cannot be good at something unless we like it and have fun doing it. The approach I take in my training sessions is to get the participants excited about technology and make it entertaining. I would like to consider myself an “Entertrainer”.
+
+→ Successfully trained 6000+ employees across 500+ corporate giants & is still counting
+→ Real time experience in delivering online, recorded, on-demand & classroom/live training programs, with hands-on experience on multiple domains/verticals
+
+→ Has been a trainer for both in-house as well as public, corporate programs and has streamlined the development of training material and training process for QA related areas, across corporate clientele and contributing to bottom line customer satisfaction
+
+ 
+
+Live Sessions Price:
+
+For LIVE sessions – Offer price after discount is 149 USD 139 USD 129 USD Or 15000 INR 13000 INR 9900 Rupees.
+
+Enroll For Free Demo
+
+ 
+
+Demo Session:
+
+3rd October @ 8 PM – 9 PM (IST) (Indian Timings)
+
+3rd October @ 10:30 AM – 11:30 AM (EST) (U.S Timings)
+
+3rd October @ 3:30 PM – 4:30 PM (BST) (UK Timings)
+
+ 
+
+Class Schedule:
+
+For Participants in India: Monday to Friday 8 PM – 9 PM (IST)
+
+For Participants in the US: Monday to Friday 10:30 AM – 11:30 AM (EST)
+
+For Participants in the UK: Monday to Friday 3:30 PM – 4:30 PM (BST)
+
+ 
+
+Prerequisites:
+
+Good understanding of:
+
+Websites and web browser
+Client Server architecture
+REST APIs
+Basic knowledge of HTTP/HTTPS protocol
+Basic understanding of HTTP methods
+Basic understanding of functional testing
+ 
+
+What student’s have to say about Trainer :
+
+Easy to understand even difficult concepts, step by step explanation with real examples – Vick
+Excellent explanation from basics with clear examples. – Shan
+
+It is very good for learning and understanding in a simple and logical way. – Nick
+
+I appreciate your expertise on teaching the subject with so much clarity and depth. Thank you for being such a wonderful coach and guide. – Latha
+
+To the point explanation by instructor, Realtime examples also shared. learned alot through this course. – Kamala
+
+Thank you so much Kiran Sir for the wonder full explanation worth to watch,and you always proves that anybody can learn anything from scratch, if trained by good trainer like you. – Satish
+
+ 
+ 
+
+What will I Learn by the end of this course?
+
+By the end of this course, you will become a Security testing professional using these tools: Burp Suite, Vooki, NMap
+LO1 Understand OWASP top#10 vulnerabilities & server side missing validations
+LO2 You will get complete knowledge on APIs security testing & Web applications security testing
+ 
+
+Salient Features:
+
+25 Hours of Live Training along with recorded videos
+Lifetime access to the recorded videos
+Course Completion Certificate
+
+
