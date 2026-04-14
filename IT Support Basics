@@ -1,0 +1,491 @@
+
+Hardware and networking
+Server Administration  2019 data center 
+ADDS, DNS, DHCP , AD user & Groups  management, Group Policies , TShooting 
+Endpoint Management 
+
+Hardware and networking
+ Desktop engineer 
+system engineer
+IT engineer 
+network engineer 
+Associate engineer
+technical support engineer 
+
+
+
+
+
+A+ & N+ by COMPTIA 
+
+day 3 :
+realtime scinarios 
+intro tech
+hardware clasee and networking
+A+
+hardware companents , 
+ex: 
+Motherboard 
+microprocessor 
+SMPS
+HDD
+RAM
+BIOS 
+CMOS
+Front panel 
+BAck panel (I/O) 
+
+
+MP: 
+intel adn AMD , Apple 
+core i7 14th gen 
+4004 4 bit 
+8008 8bit 
+8086  32(x86)
+x64 bit 
+TPM 2.0
+
+intel core i3, i5, i7 ,autom, pentium 
+
+dual core , core 2 duo
+clock rate :1.8 GHZ 2.0,3.0
+cache memory :6Mb 
+L1 and L2 
+core :
+
+ RAM  (random access memory )
+
+DDR 1
+DDR2
+DDR3
+DDR4
+4GB, 8 GB , 16 , 32 
+bus speed : 2800, 2300,2332
+
+
+
+SMPS : 12 
+
+HDD /SSD : 
+MBR - lagacy 
+ &
+ GPT  - UEFI 
+
+file systems 
+FAT , NTFS , REFS 
+EXT ,FAT
+APFS 
+
+
+hardware asembled properly then go for OS installation 
+
+OS : is interface b\w hardware and user , its software
+
+
+typs of sw: systems sw: OS
+application sw: calculatior , Antivirus 
+.exe or .MSI 
+
+types  of OS and PLatforms:
+
+Microsoft   : windows client and server 
+
+Apple : Macinthos (Mac OS), Apple Mobile IOS
+
+Linux: kali , ubuntu , Redhat  (its a kernel)
+
+kernel means interfce b/w hardware and OS 
+
+hardware requirments of Windows OS:
+windows 10 & 11
+ 
+
+BIOS: Legacy and UEFI (TPM 1.0 & 2.0)
+
+
+
+
+
+
+
+intel: windows :
+apple
+linux:
+
+requirements of OS:
+
+Practicals on hardware:
+Mother boad  componrnts 
+formfactor
+asembling and deassembling 
+
+OS and software installation 
+ control panel 
+wndows administration 10/11
+
+
+
+
+
+
+, types , 
+clock rate : herzes ghz, mhz 1.8,2.8
+threads :
+cache memory 
+core processors :
+os instalaltion 
+sw instalaltion 
+
+networking : 
+lan and wan 
+printer sharing 
+file sharing 
+endpoint management and monitoring 
+remote support 
+anydesk , Teamviewer id , RDP 
+ticketing 
+
+mail 
+application  config
+
+reporting on work sheet 
+
+ticketing tool : zendesk 
+remote support tools :
+monitoring tools:
+
+
+what is hardware  and software 
+typs of software 
+system software OS - ex: windows /Linux / Mac OS /sun solaries /IBM aix
+application softwaer ( utility sw)- MS 0office, Anydesk, VLc, Adobe reasader , Photoshop , antivirus 
+
+2 types app sw: vendor  : OS related - calcualator , defender security , media player 
+
+and 3rd party : vlc , zoom  x86 (32)  & x64 (64)
+
+microprocesssor x86 and x64 
+
+windows editions : home , Enterprise , Education and professional 
+
+server and clinet 
+
+
+2022 server 
+2019
+2016
+2012
+2008
+2003
+NT 
+
+
+
+client :
+win 95
+win 98
+win xp
+win vista 
+win 7
+win 8 /8.1
+win 10
+win 11
+
+
+
+vendors  and platform 
+
+remote monitoring tool and deployment 
+remote asist 
+
+how to install OS ?
+
+step 1: boot usb (Rufus / ventoy )
+ for bios acces : dell : f2 , lenovo f2, acer f2, HP : f8
+bot menu  f12 , delete Key  , esc , f9
+
+
+10AM to 12PM
+
+win 10 /11 what i hw requirement : 
+
+2 gb , 4gb is recomended 
+40 gb storage SSD/HDD 
+MP:1 GHZ (1.8 ghz)
+TPM 2.0  is mandatory for win 11 
+
+Drivers: 
+basic softwares : photoshop , account tally , ma
+
+java , oracle , .net sql 
+
+normal / home user  : VLC, chrome / firefox 
+typing master , 
+
+how to onstalll OS
+how to boot ventoy 
+how to amke a botbale drive 
+how to install sw n uninstall
+diffrence b/w GPT and MBR 
+
+UEFI and PXE 
+
+
+what is file systems : FAT, ExFAT, NTFS , REFS 
+
+14/12/2023
+control Panel:
+
+next 
+DOS 
+2 types OS  : GUI & CLI 
+
+install the drivers after complitions OS installtion 
+install software apps as user requirement like : MS Office , Adobe reader, Antivirus ,VLC , Photoshop 
+
+
+Administration Part of Windows 11/ 10 :
+
+Day 3 
+
+
+GPedit
+Regedit
+Shortcuts
+system settings
+components identifcation of system
+
+
+
+
+system name , date , time and IP addess 
+
+
+Attribute 
+#diskpart 
+list disk 
+select disk 0
+list part 
+select partition 2
+clean 
+format fs=ntfs 
+create part primary size=10000
+
+
+#net  
+
+
+
+computer management :
+compmgmt.msc
+devmgmt.msc
+diskmgmt.msc
+services.msc
+gpedit.msc
+secpol.msc
+regedit
+
+hp, lenovo , brother , canon, epson , ricoh
+
+vmware or vbox, hyper v 
+
+PracticL:
+OS instalaltion 
+disk partition 
+softwae and drivers installation 
+printer instalaltion 
+asembling anf deasssembling 
+basic typing 
+file formats and convert 
+remote assist tools ex: anydesk , team viewer  , RDP , ZOHO assist 
+
+zoom , MS teams, G meet
+dos 
+
+windows trobleshooting 
+
+windows 10/11 administration 
+datadog agent install 
+interviw Q&A  on desktop and Endpoint management 
+Networking class 
+roles and responsbilities of NW ngineer 
+
+
+
+Network Engineer 
+Server 
+Nw requirements Media, Devices
+NW Types , Models, topologies, 
+Protocols, port address, IEEE standards
+ISO LAyers, 
+T shoot
+AD, AD users  ,DNS, DHCP
+
+
+NW adv vs dis a
+
+Physical and 		logical 
+Devices     	 	protocls , port , IP address , Drivers , OS 
+Media 
+Connectors 
+
+
+co axail cable : thin net 200mtrs  ( IEEE)10base 2  and thick net  10base 5
+BNC 
+
+twistwe pair
+UTP And STP 
+RJ 45  for pc nw 8 pins
+rj11 for telephone  4pins
+
+cat 4 pair *2  8 cbles 
+
+cable crimping 2 types 
+cross cable(568A) and 
+straight through cable  (568B)
+
+
+
+
+ 
+
+types of communication 
+Unicast  1 -1  mobile 
+MulticST 1 - many  (group)  group chat 
+broadcast any to any  ex: tv / fm , Walky talky 
+
+data transmission types : 
+Simplex  Ex: 1 way com     ex:TV/FM
+Half Duplex : 2 way bt not a time  Ex: walky talky 
+Duplex : 2 way com Ex:  telephone , Computer net work
+
+data dog
+atera 
+manage Engine
+Zabbix
+solarwinds 
+
+Req Of NW :
+Physical 
+Repeater
+hub
+switch 
+router 
+cables 
+connectors 
+
+CO axail 
+twisted Pair 
+OFC
+
+CO axail 
+Thin net (10 base 2)200   by IEEE
+thick Net (10base5)500 mtrs
+
+
+ twisted Pair 
+UTP & STP
+
+staright through cable  (568B)
+differen devices 
+switch to router 
+switch to system 
+
+cross over cable 
+same devices 
+systems to system
+router to router 
+switch to switch 
+router to System
+1*3
+2*6
+
+Protocols ,port addressess 
+IP Address 
+
+
+
+IP =internet protocol
+TCP= transmission control protocol
+
+UDP    
+TCP/IP 
+icmp v4 , v6   -     1
+HTTP     80
+HTTPS   443
+
+FTP   20/21 
+tftp 69
+
+SMTP  25
+IMAP  143
+POP3   110
+
+ntp
+
+RDP 3389
+telnet 23 
+SSH  22
+
+PPP
+RIP
+
+DHCP 67 /68
+DNS  53
+65536
+1-1023  1024
+
+
+IEEE standards for NW
+OSI layers 
+
+NW types
+LAN, CAN , MAN & WAN 
+
+
+
+NW tolologies 
+BUS, RING, Star , TREE, Hybrid , MEsh 
+
+NW  mOdels
+workmgroup and Server (domain )based network 
+OSI LAyers
+IP Address 
+AD, DNS , DHCp 
+Endpoint Mgmt 
+binary to decimal 
+decimal to binary 
+
+Interview Q & A
+
+
+
+
+
+
+explain abt iyour self 
+
+what is Domain and how to join
+what is BSOD 
+how to dump or copy data from  OS correupted system
+what is switch and router 
+what is gateway 
+what is IP , PING, IPconfig, 
+how to configure outlook
+how to configure network printer 
+what is DNS, DHCP
+what is APIPA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
